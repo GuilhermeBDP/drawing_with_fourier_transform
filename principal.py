@@ -1,6 +1,8 @@
+import os
+os.chdir("C:\\Users\\guilh\\Google Drive\\Cursos Online\\Projetos Python\\Desenhando com Fourier")
+
 import pygame as pg
 import math
-import os
 from dft_function import dft
 import numpy as np
 import matplotlib.image as mpimg
